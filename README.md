@@ -1,1 +1,1 @@
-Atualizado automaticamente (eu acho kkk)/manualmente diretamente pelo VS Code.
+Atualizado manualmente diretamente pelo VS Code.
