@@ -62,8 +62,8 @@ main {
 }
 
 /* Animação vertical da pfp do GitHub */
-#love, body header div img, main section {
-    animation: fromLeft 2000ms backwards;
+#love, #github-pfp {
+    animation: fromLeft 1500ms backwards;
 }
 
 main section:nth-child(1) {
