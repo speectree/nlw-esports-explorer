@@ -1,14 +1,14 @@
-# ‹< NLW eSports >›
+# — ‹< NLW eSports >› —
 
 > ## Trilha Explorer
 
-Projeto construído no decorrer do evento Next Level Week da Rocketseat, sob a tutoria de Mayk Brito.
+Projeto construído no decorrer do evento ___Next Level Week___ da Rocketseat, sob a tutoria de Mayk Brito.
 
 ![preview](./.github/preview.png)
 
-##### Clique [aqui](https://speectree.github.io/nlw-esports-explorer/) para acessar!
+##### <sup> Clique [aqui](https://speectree.github.io/nlw-esports-explorer/) para acessar! </sup>
 
-## 🛠 Tecnologias
+## 🛠 Tecnologias lecionadas no decorrer do evento
 
 - HTML
 - CSS
@@ -17,4 +17,5 @@ Projeto construído no decorrer do evento Next Level Week da Rocketseat, sob a t
 ## 📧 Meios de Contato
 
 E-mail principal: **`almeidalorenzo2007@gmail.com`**  
-Instagram: **`@lorenzoalmeidarosa`**
+Instagram: **`@lorenzoalmeidarosa`**  
+Discord: **`𝒔𝒑𝒆𝒄𝒕𝒓𝒆𝒆#8531`**
