@@ -67,7 +67,7 @@ main {
 }
 
 main section:nth-child(1) {
-    animation: fromLeft 2500ms;
+    animation: fromLeft 3000ms;
 }
 
 main section:nth-child(2) {
